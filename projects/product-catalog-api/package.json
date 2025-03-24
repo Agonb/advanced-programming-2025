@@ -1,0 +1,30 @@
+{
+  "name": "simple-product-api",
+  "version": "1.0.0",
+  "description": "Simple Product API for testing practice",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "jest",
+    "test:unit": "jest --testPathPattern=tests/unit",
+    "test:integration": "jest --testPathPattern=tests/integration",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [
+    "api",
+    "testing",
+    "product"
+  ],
+  "author": "Agon Bajgora",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.22",
+    "supertest": "^6.3.3"
+  }
+}
