@@ -21,7 +21,7 @@ By the end of this session, students will:
 - Explain today's deliverables
 
 ### Part 2: Team Formation & Project Selection (20 minutes)
-- Students form teams of 2-4 members
+- Students form teams of 2-3 members
 - Teams discuss project ideas from the provided list
 - Each team selects a project and registers with the instructor
 
